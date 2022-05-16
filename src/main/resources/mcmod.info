@@ -1,0 +1,18 @@
+[
+  {
+    "modid": "ApeHack",
+    "name": "ApeHack",
+    "description": "Minecraft 1.12.2 utility mod for anarchy servers",
+    "version": "${version}",
+    "mcversion": "${mcversion}",
+    "url": "",
+    "updateUrl": "",
+    "authorList": [
+      "CumHax"
+    ],
+    "credits": "",
+    "logoFile": "",
+    "screenshots": [],
+    "dependencies": []
+  }
+]
